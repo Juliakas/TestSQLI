@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+  <Targets>
+    <Target path="C:\Users\julius.rupsys\IdeaProjects\TestSQLI"/>
+  </Targets>
+  <TargetSettings>
+    <Target path="C:\Users\julius.rupsys\IdeaProjects\TestSQLI"/>
+    <Target path="C:\Users\julius.rupsys\IdeaProjects\TestSQLI"/>
+    <Target path="C:\Users\julius.rupsys\IdeaProjects\TestSQLI">
+      <!--Please add the path of the following dependencies to the attribute "additional_classpath" below, separated by semi-colon.
+				junit.framework.*-->
+      <CustomBuildInfo additional_classpath=""/>
+    </Target>
+  </TargetSettings>
+</Configuration>
