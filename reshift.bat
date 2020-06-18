@@ -1,0 +1,1 @@
+mvn compile com.softwaresecured.reshift:maven-plugin:LATEST:analyse com.softwaresecured.reshift:maven-plugin:LATEST:upload -Dreshift.token=0xFTymRn4eHx3OT2gEddZAKLK3pNbVXS1r8gdi0IQGQ=
